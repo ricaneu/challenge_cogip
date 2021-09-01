@@ -1,5 +1,5 @@
 <?php
 class Router {
-function getController() {return "controller";}
-function getAction() {return "action";}
+function getController() {return "index_controller";}
+function getAction() {return "index_action";}
 }
